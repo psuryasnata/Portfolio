@@ -71,6 +71,13 @@ body{
     width: 100%;
 }
 
+.btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px; /* Optional */
+}
+
 .btn{
     position: relative;
     left: 600px;
